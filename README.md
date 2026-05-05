@@ -1,2 +1,2 @@
 # MarkdownToOthers-Discussions
-MarkdownToOthers的反馈渠道
+MarkdownToOthers的意见反馈渠道
